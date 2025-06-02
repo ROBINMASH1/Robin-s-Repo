@@ -1,4 +1,15 @@
-
+/*
+ * utils_refactored.cpp
+ * 
+ * Most valuable layout improvement made:
+ *   Introduced whitespace (indentation, blank lines, grouping) to enhance logical structure and readability.
+ * 
+ * One example where comment explains why instead of what:
+ *   // Skip elements below average to only count those above
+ * 
+ * How endline comment pitfalls were avoided:
+ *   Used paragraph comments before blocks of code instead of cryptic endline comments.
+ */
 //utils_refactored.cpp — for calc() and processArr() functions
 
 
